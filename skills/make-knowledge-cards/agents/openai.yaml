@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片生成器"
+  short_description: "把粘贴的文章或本地 Markdown/TXT 转成 5~8 张一文一义的知识卡片"
+  default_prompt: "使用 $make-knowledge-cards 把这篇文章整理成知识卡片。"
