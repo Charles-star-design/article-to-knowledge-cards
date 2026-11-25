@@ -1,6 +1,9 @@
 # WorkBuddy 内部工作记忆（开发过程日志，不属于开源交付物）
 .workbuddy/
 
+# gh CLI 本地状态（设备 ID 等，不应公开）
+.local/
+
 # 常见临时 / 备份文件
 *.tmp
 *.temp
